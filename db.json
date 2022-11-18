@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "4fd6fc9d-c881-47da-a217-cce4af749007",
+      "name": "Test1",
+      "email": "test1@gmail.com",
+      "password": "12345678",
+      "phone": 1234567890
+    },
+    {
+      "id": "65f754f8-95ba-4de7-814d-e9c156b900a9",
+      "name": "Test2",
+      "email": "test2@gmail.com",
+      "password": "12345609",
+      "phone": 1234345456
+    }
+  ]
+}
